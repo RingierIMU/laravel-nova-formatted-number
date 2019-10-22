@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "MarcusChristiansen\\FormattedNumber\\": "src/"
+            "Marcuschristiansen\\FormattedNumber\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "MarcusChristiansen\\FormattedNumber\\FieldServiceProvider"
+                "Marcuschristiansen\\FormattedNumber\\FieldServiceProvider"
             ]
         }
     },
