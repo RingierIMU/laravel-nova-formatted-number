@@ -7,13 +7,13 @@ This package allows the user to set up a field in Nova that is formatted using t
 You can install the package via composer:
 
 ```bash
-composer require marcuschristiansen/laravel-nova-formatted-number
+composer require ringierimu/laravel-nova-formatted-number
 ```
 
 ## Usage
 
 ```php
-use Marcuschristiansen\FormattedNumber;
+use Ringierimu\FormattedNumber;
 
 FormattedNumber::make('Price')
     ->format('0,0')   // Defaults to "0,0"

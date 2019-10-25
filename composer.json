@@ -1,5 +1,5 @@
 {
-    "name": "marcuschristiansen/formatted-number",
+    "name": "ringierimu/formatted-number",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Marcuschristiansen\\FormattedNumber\\": "src/"
+            "Ringierimu\\FormattedNumber\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Marcuschristiansen\\FormattedNumber\\FieldServiceProvider"
+                "Ringierimu\\FormattedNumber\\FieldServiceProvider"
             ]
         }
     },
