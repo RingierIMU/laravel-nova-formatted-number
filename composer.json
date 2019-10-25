@@ -1,5 +1,5 @@
 {
-    "name": "RingierIMU/formatted-number",
+    "name": "ringierimu/formatted-number",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Ringierimu\\FormattedNumber\\": "src/"
+            "RingierIMU\\FormattedNumber\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ringierimu\\FormattedNumber\\FieldServiceProvider"
+                "RingierIMU\\FormattedNumber\\FieldServiceProvider"
             ]
         }
     },
