@@ -1,6 +1,6 @@
 <?php
 
-namespace Ringierimu\FormattedNumber;
+namespace Rimu\FormattedNumber;
 
 use Laravel\Nova\Fields\Field;
 
