@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "RingierIMU\\FormattedNumber\\": "src/"
+            "Rimu\\FormattedNumber\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "RingierIMU\\FormattedNumber\\FieldServiceProvider"
+                "Rimu\\FormattedNumber\\FieldServiceProvider"
             ]
         }
     },
